@@ -51,7 +51,7 @@
     <!-- Visibility: Visible 0-3s, Hidden 3-8s -->
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.375;0.376;0.999;1" dur="8s" repeatCount="indefinite" />
     
-    <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-size="24" fill="#27c93f">JOSEPH@linux:~$ <tspan fill="white">man focus</tspan></text>
+    <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-size="24" fill="#27c93f">JOSEPH@linux:~$ <tspan fill="white">man stack</tspan></text>
     
     <!-- Masking rect for typing effect -->
     <rect x="225" y="0" width="165" height="30" fill="#050505" opacity="1">
@@ -81,21 +81,13 @@
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.375;0.376;0.999;1" dur="8s" repeatCount="indefinite" />
 
     <!-- Header -->
-    <text x="0" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold">FOCUS(1)</text>
+    <text x="0" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold">STACK(1)</text>
     <text x="500" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold" text-anchor="middle">JOSEPH Manual</text>
-    <text x="1000" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold" text-anchor="end">FOCUS(1)</text>
+    <text x="1000" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold" text-anchor="end">STACK(1)</text>
     
-    <!-- NAME Section -->
-    <text x="0" y="50" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">NAME</text>
-    <text x="50" y="70" font-family="monospace" font-size="20" fill="white">focus - display Mark Joseph's current areas of focus and expertise</text>
-    
-    <!-- SYNOPSIS Section -->
-    <text x="0" y="100" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">SYNOPSIS</text>
-    <text x="50" y="120" font-family="monospace" font-size="20" fill="white">focus [option]</text>
+
     
 <!-- DESCRIPTION Section -->
-    <text x="0" y="150" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">DESCRIPTION</text>
-    <text x="50" y="170" font-family="monospace" font-size="20" fill="white">The following areas are currently in focus:</text>
     
     <text x="70" y="200" font-family="monospace" font-size="20" fill="white" font-weight="bold">• AI &amp; MACHINE LEARNING</text>
     <text x="90" y="220" font-family="monospace" font-size="16" fill="white" opacity="0.8">Multi-modal models, YOLO, PyTorch, TensorFlow, Scikit-learn</text>
