@@ -243,4 +243,3 @@
 <p align="center">
   <img src="public/assets/section_footer.svg" width="100%" alt="Footer" />
 </p>
-"# josephtrill" 
