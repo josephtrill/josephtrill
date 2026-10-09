@@ -91,7 +91,7 @@
     
     <!-- SYNOPSIS Section -->
     <text x="0" y="100" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">SYNOPSIS</text>
-    <text x="50" y="120" font-family="monospace" font-size="20" fill="white">stck [option]</text>
+    <text x="50" y="120" font-family="monospace" font-size="20" fill="white">stack [option]</text>
     
 <!-- DESCRIPTION Section -->
     <text x="0" y="150" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">DESCRIPTION</text>
