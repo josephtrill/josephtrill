@@ -65,14 +65,9 @@
   - [Frameworks and Libraries](#frameworks-and-libraries)
   - [Databases & Cloud Hosting](#databases-and-cloud-hosting)
   - [Software & Tools](#software-and-tools)
-  - [DevOps Tools](#devops-tools)
-  - [Linux Distributions](#linux-distributions)
   - [Other Operating Systems](#other-operating-systems)
-  - [Linux and Homelab Tools](#linux-and-homelab-tools)
-  - [Virtualization Tools](#virtualization-tools)
 - [GitHub Stats](#-github-stats)
 - [Badges](#-badges)
-- [Recent Activity](#-my-recent-activity)
 
 </details>
 
