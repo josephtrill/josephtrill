@@ -99,17 +99,17 @@
           <tspan x="0" dy="20" fill="#6366f1">Uptime:</tspan> 4 years in CS (Aug 2022 - Jul 2026)
           <tspan x="0" dy="20" fill="#6366f1">Status:</tspan><tspan fill="#27c93f"> open to work</tspan>
         </text>
-        
-        <!-- Color palette -->
-        <g transform="translate(0, 310)">
-          <rect x="0" y="0" width="20" height="12" fill="#1e1e1e" />
-          <rect x="22" y="0" width="20" height="12" fill="#e06c75" />
-          <rect x="44" y="0" width="20" height="12" fill="#98c379" />
-          <rect x="66" y="0" width="20" height="12" fill="#e5c07b" />
-          <rect x="88" y="0" width="20" height="12" fill="#61afef" />
-          <rect x="110" y="0" width="20" height="12" fill="#c678dd" />
-          <rect x="132" y="0" width="20" height="12" fill="#56b6c2" />
-          <rect x="154" y="0" width="20" height="12" fill="#abb2bf" />
+
+        <!-- Color palette (one row, directly under system info) -->
+        <g transform="translate(0, 170)">
+          <rect x="0"   y="0" width="24" height="12" rx="2" fill="#4b5263" />
+          <rect x="26"  y="0" width="24" height="12" rx="2" fill="#e06c75" />
+          <rect x="52"  y="0" width="24" height="12" rx="2" fill="#98c379" />
+          <rect x="78"  y="0" width="24" height="12" rx="2" fill="#e5c07b" />
+          <rect x="104" y="0" width="24" height="12" rx="2" fill="#61afef" />
+          <rect x="130" y="0" width="24" height="12" rx="2" fill="#c678dd" />
+          <rect x="156" y="0" width="24" height="12" rx="2" fill="#56b6c2" />
+          <rect x="182" y="0" width="24" height="12" rx="2" fill="#abb2bf" />
         </g>
       </g>
     </g>
