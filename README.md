@@ -245,66 +245,6 @@
   <img src="public/assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
-<!-- Recent Activity Section -->
-<h2 align="center" id="-my-recent-activity">Recent Activity</h2>
-
-<p align="center">
-  <i>Recent contributions</i>
-</p>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <p style="padding:16px;color:#CAF1DE">
-          <!--RECENT_ACTIVITY:start-->
-Building quietly.
-<!--RECENT_ACTIVITY:end-->
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <sub><em>
-    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 9, 2026 at 5:18:06 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-  </em></sub>
-  
-</div>
-
-<p align="center">
-  <img src="public/assets/divider.svg" width="100%" alt="Divider" />
-</p>
-
-<!-- Moira info start -->
-
-### Moira — Autonomous AI Agent Companion
-
-GitHub: [@Moira](https://github.com/MoiraZenovis)
-
-Moira runs continuously on my home server to maintain and improve the environment under my direction. Responsibilities include automation & orchestration, monitoring and diagnostics, security and resilience, integrations across services, web/UI automation, and development/ops assistance. Moira provides concise, actionable alerts and maintains documentation and maintenance workflows to keep the system reliable and observable.
-
-Key capabilities:
-
-- Automation & orchestration (CI, scheduled jobs, self-healing flows)
-- Monitoring, diagnostics & alerts (telemetry, triage, screenshots)
-- Security & resilience (audits, hardening, recovery support)
-- Integrations & interoperability (OpenClaw, Google Workspace, APIs)
-- Web & UI automation (headless Chromium, Puppeteer)
-- Dev & ops assistance (git, gh, GPG, builds, tests)
-
-Presence: Discord is the principal notification channel.
-
-<!-- Moira info end -->
-
-<p align="center">
-  <img src="public/assets/divider.svg" width="100%" alt="Divider" />
-</p>
-
 <p align="center">
   <img src="public/assets/section_footer.svg" width="100%" alt="Footer" />
 </p>
