@@ -85,9 +85,17 @@
     <text x="500" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold" text-anchor="middle">JOSEPH Manual</text>
     <text x="1000" y="10" font-family="monospace" font-size="24" fill="white" font-weight="bold" text-anchor="end">STACK(1)</text>
     
-
+    <!-- NAME Section -->
+    <text x="0" y="50" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">NAME</text>
+    <text x="50" y="70" font-family="monospace" font-size="20" fill="white">stack - Mark Joseph's tech toolkit</text>
+    
+    <!-- SYNOPSIS Section -->
+    <text x="0" y="100" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">SYNOPSIS</text>
+    <text x="50" y="120" font-family="monospace" font-size="20" fill="white">stck [option]</text>
     
 <!-- DESCRIPTION Section -->
+    <text x="0" y="150" font-family="monospace" font-size="22" fill="#6366f1" font-weight="bold">DESCRIPTION</text>
+    <text x="50" y="170" font-family="monospace" font-size="20" fill="white">Core areas I work in:</text>
     
     <text x="70" y="200" font-family="monospace" font-size="20" fill="white" font-weight="bold">• AI &amp; MACHINE LEARNING</text>
     <text x="90" y="220" font-family="monospace" font-size="16" fill="white" opacity="0.8">Multi-modal models, YOLO, PyTorch, TensorFlow, Scikit-learn</text>
