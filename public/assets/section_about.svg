@@ -82,7 +82,7 @@
       </g>
       
       <!-- Info on Right -->
-      <g transform="translate(400, 20)">
+      <g transform="translate(340, 0)">
         <!-- JOSEPH @ vox header -->
         <text font-family="monospace" font-size="17" fill="white">
           <tspan fill="#6366f1" font-weight="bold">JOSEPH</tspan><tspan fill="#666">@</tspan><tspan fill="#6366f1" font-weight="bold">vox</tspan>
@@ -90,7 +90,7 @@
         <text y="18" font-family="monospace" font-size="17" fill="#444">─────────────────</text>
         
 <!-- System info -->
-        <text y="40" font-family="monospace" font-size="17" fill="white">
+        <text y="18" font-family="monospace" font-size="17" fill="white">
           <tspan font-weight="bold" fill="#8a8df6">mark@trillana</tspan>
           <tspan x="0" dy="20" fill="#6366f1">──────────────────────────</tspan>
           <tspan x="0" dy="20" fill="#6366f1">Degree:</tspan> BS Computer Science (Intelligent Systems)
@@ -100,8 +100,9 @@
           <tspan x="0" dy="20" fill="#6366f1">Status:</tspan><tspan fill="#27c93f"> open to work</tspan>
         </text>
 
+
         <!-- Color palette (one row, directly under system info) -->
-        <g transform="translate(0, 170)">
+        <g transform="translate(0, 150)">
           <rect x="0"   y="0" width="24" height="12" rx="2" fill="#4b5263" />
           <rect x="26"  y="0" width="24" height="12" rx="2" fill="#e06c75" />
           <rect x="52"  y="0" width="24" height="12" rx="2" fill="#98c379" />
