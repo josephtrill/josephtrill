@@ -228,42 +228,10 @@
   <table>
     <tr>
       <td align="center" width="150">
-        <a href="https://www.credly.com/badges/fec2454c-f8f9-45a8-8517-1c8fe16e1e2f/public_url">
-          <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Ethical Hacker Badge">
+        <a href="https://www.credly.com/badges/3e5f8bdf-acf0-4b06-96c0-78df6f822c77/public_url">
+          <img src="https://images.credly.com/images/86bff777-939c-42c5-9a09-44b9bf635eba/linkedin_thumb__ITS-Badges-Cloud-Comput.png" width="120" alt="IT Specialist - Cloud Computing Badge">
         </a>
-        <br><b>Ethical Hacker</b>
-      </td>
-      <td align="center" width="150">
-        <a href="https://www.credly.com/badges/d66e78e8-fa4a-4508-b2ae-1163d12d51b7/public_url">
-          <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="120" alt="Network Defense Badge">
-        </a>
-        <br><b>Network Defense</b>
-      </td>
-      <td align="center" width="150">
-        <a href="https://www.credly.com/badges/2994ace5-22c4-4138-8034-587fe29ba000/public_url">
-          <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="120" alt="AI Fundamentals Badge">
-        </a>
-        <br><b>AI Fundamentals</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <a href="https://www.credly.com/badges/ef13af48-9c36-4421-b642-1c22a02c6e47/public_url">
-          <img src="https://images.credly.com/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" width="120" alt="AI Fundamentals Badge">
-        </a>
-        <br><b>AI Fundamentals</b>
-      </td>
-      <td align="center" width="150">
-        <a href="https://www.credly.com/badges/49ec359c-80b8-4be6-a7ec-ba1825ed99b5/public_url">
-          <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="I2CS Badge">
-        </a>
-        <br><b>I2CS</b>
-      </td>
-      <td align="center" width="150">
-        <a href="https://www.credly.com/badges/cb281905-4563-4f86-9f15-c2a06fba9184/public_url">
-          <img src="https://images.credly.com/size/680x680/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="120" alt="CHB Badge">
-        </a>
-        <br><b>CHB</b>
+        <br><b>IT Specialist - Cloud Computing</b>
       </td>
     </tr>
   </table>
