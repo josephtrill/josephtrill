@@ -198,19 +198,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephtrill&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josephtrill&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephtrill&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=764ba2" alt="Contribution Graph" width="95%"/>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephtrill&theme=radical" alt="Profile Details" width="95%"/>
